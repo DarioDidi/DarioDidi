@@ -25,14 +25,14 @@ I'm a passionate Fullstack dev with experience in Django, NextJS, Laravel. I lov
 <!--*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*-->
 
 ## Featured Projects 💻
-### ![Classified ads site] (https://ddinho.pythonanywhere.com/)
+### ![Classified ads site](https://ddinho.pythonanywhere.com/)
   **Classified ads site** is a website that allows user to post advertisements for products they put up for sale built with **Django, HTML, CSS, Postgres**.
 
 ### ![NextJS dashboard app](https://next-js-dashboard-pearl-kappa.vercel.app/dashboard)
   **Dashboard App** is a fullstack inventory management site built with **NextJS and Postgres** and hosted on vercel.
 
 ## Get in Touch 📬
-- **![LinkedIn]**(www.linkedin.com/in/dariodidi)
-- **![Twitter]**(https://x.com/dd2_dario?s=09)
+- ![**LinkedIn**](www.linkedin.com/in/dariodidi)
+- ![**Twitter**](https://x.com/dd2_dario?s=09)
 
 
