@@ -1,22 +1,4 @@
-## Hi there 👋
-
-<!--
-**DarioDidi/DarioDidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Dario 👋
-
-![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
@@ -30,33 +12,25 @@ I'm a passionate Fullstack dev with experience in Django, NextJS, Laravel. I lov
 - -->
 
 ## My Skills 🧠
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://nextjs.org/static/images/nextjs-logo.png)
-![Rust](https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128-blk-v2.png)
-![PHP](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png)
-![Laravel](https://raw.githubusercontent.com/laravelio/art/main/laravel-logo.png)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
-[Classified ads site] (https://ddinho.pythonanywhere.com/)
-
-### [Project 1 Title](project_1_link)
+### [Classified ads site] (https://ddinho.pythonanywhere.com/)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
-![NextJS dashboard app](https://next-js-dashboard-pearl-kappa.vercel.app/dashboard)
+**[Classified ads site]** is a website that allows user to post advertisements for products they put up for sale built with **Django, HTML, CSS, Postgres**.
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+### ![NextJS dashboard app](https://next-js-dashboard-pearl-kappa.vercel.app/dashboard)
+**Dashboard App** is a fullstack inventory management site built with **NextJS and Postgres** and hosted on vercel.
 
 ## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(www.linkedin.com/in/dariodidi)
 - **[Twitter]**(your_twitter_profile_link)
 
