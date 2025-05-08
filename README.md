@@ -6,6 +6,7 @@ I'm a passionate Fullstack dev with experience in Django, NextJS, Laravel. I lov
 
 - 🌱 Currently learning: Linux kernel development
 - 🌍 Languages: Python, Javascript, Rust, PHP, C
+- 🗣️ SpokeN: English, Swahili, Spanish, French
 - 📫 How to reach me: dididario.dd2@gmail.com
 <!--
 - ⚡ Fun fact: **[a fun fact about yourself]**
@@ -25,7 +26,7 @@ I'm a passionate Fullstack dev with experience in Django, NextJS, Laravel. I lov
 
 ## Featured Projects 💻
 ### ![Classified ads site] (https://ddinho.pythonanywhere.com/)
-  **[Classified ads site]** is a website that allows user to post advertisements for products they put up for sale built with **Django, HTML, CSS, Postgres**.
+  **Classified ads site** is a website that allows user to post advertisements for products they put up for sale built with **Django, HTML, CSS, Postgres**.
 
 ### ![NextJS dashboard app](https://next-js-dashboard-pearl-kappa.vercel.app/dashboard)
   **Dashboard App** is a fullstack inventory management site built with **NextJS and Postgres** and hosted on vercel.
